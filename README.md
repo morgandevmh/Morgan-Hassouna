@@ -1,2 +1,2 @@
 # Morgan-Hassouna
-Mon dépôt personnel
+Développeur web en devenir, retrouver ici mes projets de formation 
