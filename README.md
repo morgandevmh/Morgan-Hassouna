@@ -1,2 +1,13 @@
 # Morgan-Hassouna
-Développeur web en devenir, retrouver ici mes projets de formation 
+## Développeur web en devenir
+
+**Actuellement en formation sur :** 
+- html
+- CSS
+- JavaScript
+
+**Me contacter / Mes reseaux pro :** 
+- linkedin :
+- instagram : 
+- X : 
+
