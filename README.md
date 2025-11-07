@@ -21,15 +21,17 @@ Passionate about web development, I am currently in training and actively seekin
 
 ### 💼 Projects
 
+
 #### 🌐 Personal Portfolio (in progress)
 * **Description** : Portfolio website showcasing my skills and projects, with a focus on learning.
 * **Technologies** : HTML, CSS, JavaScript
 * 🔗morgandevmh.github.io/portfolio-v2/ | 📂 https://github.com/morgandevmh/portfolio-v2
 
-#### 💪 FitZone - Gym Showcase Website (in progress
+
+#### 💪 FitZone - Gym Showcase Website (in progress)
 * **Description** : A modern showcase website for a fictional gym, including service presentation, and more !
 * **Technologies** : HTML, CSS, JavaScript
-* 🔗 in comming) | 📂 https://github.com/morgandevmh/salle-de-sport-fictive 
+* 🔗 (in comming) | 📂 https://github.com/morgandevmh/salle-de-sport-fictive 
 
 ---
 
