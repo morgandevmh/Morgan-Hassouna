@@ -1,4 +1,4 @@
-# 👋 Hey!! I'm Morgan
+# Hey !! I'm Morgan
 
 ## Junior Web Developer in Training
 Passionate about web development, I am currently in training and actively seeking an **internship** to apply my skills and contribute to concrete projects.
