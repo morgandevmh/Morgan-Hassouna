@@ -24,7 +24,7 @@ Passionate about web development, I am currently in training and actively seekin
 
 ####  Personal Portfolio (in progress)
 * **Description** : Portfolio website showcasing my skills and projects, with a focus on learning.
-* 🔗morgandevmh.github.io/portfolio-v2/ | 📂 https://github.com/morgandevmh/portfolio-v2
+* 🔗[morgandevmh.github.io/portfolio-v2/](https://morgandevmh.github.io/portfolio-v2/) | 📂 https://github.com/morgandevmh/portfolio-v2
 
 ####  FitZone - Gym Showcase Website (in progress)
 * **Description** : A modern showcase website for a fictional gym, including service presentation, and more !
