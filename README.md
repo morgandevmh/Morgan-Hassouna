@@ -28,7 +28,7 @@ Passionate about web development, I am currently in training and actively seekin
 
 #### Pokedex exercise
 * **Description** : A learning project focused on working with APIs. This project involves creating a PokéDex that displays Pokémon information, it is bound to evolve, with the addition of new features.
-* [Pokedex](https://morgandevmh.github.io/pokedex-exercise/)
+* 🔗 [Pokedex](https://morgandevmh.github.io/pokedex-exercise/)
 
 ---
 
