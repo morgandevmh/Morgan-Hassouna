@@ -24,8 +24,11 @@ Passionate about web development, I am currently in training and actively seekin
 
 ####  Personal Portfolio (in progress)
 * **Description** : Portfolio website showcasing my skills and projects, with a focus on learning. for now my portfolio is currently under development and is intended to evolve continuously as my skills, experience, and technical knowledge grow. 
-* 🔗 [Live demo](https://morgandevmh.github.io/portfolio-v2/)
+* 🔗 [My Portfolio](https://morgandevmh.github.io/portfolio-v2/)
 
+#### Pokedex exercise
+* **Description** : A learning project focused on working with APIs. This project involves creating a PokéDex that displays Pokémon information, it is bound to evolve, with the addition of new features.
+* [Pokedex](https://morgandevmh.github.io/pokedex-exercise/)
 
 ---
 
