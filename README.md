@@ -24,7 +24,7 @@ Passionate about web development, I am currently in training and actively seekin
 
 ####  Personal Portfolio (in progress)
 * **Description** : Portfolio website showcasing my skills and projects, with a focus on learning. for now my portfolio is currently under development and is intended to evolve continuously as my skills, experience, and technical knowledge grow. 
-* 🔗morgandevmh.github.io/portfolio-v2/
+* 🔗...morgandevmh.github.io/portfolio-v2/
 
 ---
 
