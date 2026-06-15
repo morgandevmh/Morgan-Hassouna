@@ -1,4 +1,4 @@
-[EN](README.md) · **FR**
+[EN](README.en.md) · **FR**
 
 # Salut, moi c'est Morgan 👋
 
