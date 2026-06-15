@@ -1,45 +1,58 @@
-# Hey !! I'm Morgan
+[EN](README.md) · **FR**
 
-## Junior Web Developer in Training
-Passionate about web development, I am currently in training and actively seeking an **internship** to apply my skills and contribute to concrete projects.
+# Salut, moi c'est Morgan 👋
 
----
-
-### TECHNICAL SKILLS
-
-#### Languages & Technologies
-* HTML
-* CSS 
-
-#### Currently Learning
-* JavaScript
-* REACT
-* Node.js
-* data base SQL NoSQL
+### Développeur web junior · À la recherche d'une alternance
 
 ---
 
-### PROJECTS
+### À propos
 
+Après plusieurs tentatives d'études (deux ans en droit, puis un an en langues étrangères appliquées), c'est finalement dans le développement web que je me retrouve le mieux. J'ai commencé à apprendre seul, puis j'ai intégré l'AFEC pour préparer le *Titre Professionnel Développeur Web et Web Mobile*.
 
-####  Personal Portfolio (in progress)
-* **Description** : Portfolio website showcasing my skills and projects, with a focus on learning. for now my portfolio is currently under development and is intended to evolve continuously as my skills, experience, and technical knowledge grow. 
-* 🔗 [My Portfolio](https://morgandevmh.github.io/portfolio-v2/)
+Je termine la formation et je recherche une alternance pour continuer à progresser au sein d'une équipe expérimentée.
 
-#### Pokedex exercise
-* **Description** : A learning project focused on working with APIs. This project involves creating a PokéDex that displays Pokémon information, it is bound to evolve, with the addition of new features.
-* 🔗 [Pokedex](https://morgandevmh.github.io/pokedex-exercise/)
+En dehors du code, je reste passionné par le milieu du sport, notamment le basket et le triathlon (course à pied, trail, natation, cyclisme).
 
 ---
 
-### OBJECTIVES
+### Ce sur quoi je travaille
 
-I am actively looking for a **web development internship** to deepen my technical skills, collaborate with a team, and participate in real-world projects. Available starting **March 16 to Mai 29**.
+**A.G.L** *(Application de Gestion Locative)*  
+Mon side project principal. Une plateforme de gestion locative pour propriétaires bailleurs : biens, locataires, baux et génération automatique de documents PDF. C'est le projet où je pousse le plus loin côté architecture et réflexion produit.
+
+**Labor** *(plateforme de mise en relation, en cours de développement)*  
+Une plateforme de mise en relation entre utilisateurs, lancée pendant mon stage au sein d'une équipe de quatre. Un ancien coéquipier en assure désormais le développement principal ; je reste impliqué en tant que collaborateur.
+
+**Portfolio**  
+En cours de refonte complète. La nouvelle version arrive bientôt.
 
 ---
 
-### CONTACTS
+### Stack technique
 
-* **💼 LinkedIn** : https://www.linkedin.com/in/morgandevmh/
-* **📧 Email** : [morgan477.mh@gmail.com](mailto:morgan477.mh@gmail.com)
-* **🌍 Location** : France 
+**Maîtrisé**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Node.js` · `PostgreSQL` · `Prisma` · `Zod` · `Git`
+
+**En approfondissement**  
+`Better Auth` · `Cloudflare R2` · `React-PDF` · `NoSQL`
+
+---
+
+### Formation
+
+**Titre Professionnel Développeur Web et Web Mobile**, AFEC Agen (2025-2026)
+
+---
+
+### Langues parlées
+
+🇫🇷 Français *(natif)* · 🇬🇧 Anglais *(C1)* · 🇪🇸 Espagnol *(B1)*
+
+---
+
+### Me contacter
+
+- 💼 LinkedIn : [morgandevmh](https://www.linkedin.com/in/morgandevmh/)
+- 📧 Email : [morgan477.mh@gmail.com](mailto:morgan477.mh@gmail.com)
+- 🌍 Localisation : France
